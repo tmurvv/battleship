@@ -1,5 +1,7 @@
 # Battleship
 
+This is a coding challenge that was part of the interview for my current job.
+
 ## Purpose
 Create a simplified implementation of the classic game, Battleship, that best illustrates programming skills. This exercise should take no longer than 4 hours to complete.
 
